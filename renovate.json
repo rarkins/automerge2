@@ -1,0 +1,6 @@
+{
+  "packageRules": [{
+    "matchUpdateTypes": ["minor"],
+    "automerge": true
+  }]
+}
